@@ -1,0 +1,109 @@
+{
+  "main": {
+    "name":"Carlos Max Utsch Costa",
+    "description":"Full-stack developer",
+    "image":"max.gif",
+    "bio":"I'm a full-stack developer with experience in Java and React.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "carlos_max@live.com",
+    "phone": "55 31 9 9103-6847",
+    "github":"https://github.com/carlos-max",    
+    "address":{      
+      "city":"Belo Horizonte",
+      "state":"Minas Gerais"      
+    },    
+    "labels": {
+      "home": "Home",
+      "about": "About",
+      "resume": "Resume",
+      "aboutMe": "About Me",
+      "contactInfo": "Contact Details"
+    },
+    "social":[      
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/carlos-max-costa-72152669/",
+        "className":"fa fa-linkedin"
+      },     
+      {
+        "name":"github",
+        "url":"https://github.com/carlos-max",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "labels": {
+      "education": "Education",
+      "work": "Work"
+    },
+    "skillmessage":"These are my main skills",
+    "education":[
+      {
+        "school":"UNA / FUMEC",
+        "degree":"Bachelor Degree in Computer Engineering",
+        "graduated":"December 2021"        
+      }     
+    ],
+    "work":[
+      {
+        "company":"Group Software Ltda",
+        "title":"Full-stack developer",
+        "years":"June 2017 - Present",
+        "description":"Microservices development using Java with Spring Boot Framework, React+Redux, Liquibase, MySQL, Apache Kafka and more."
+      },
+      {
+        "company":"ETEG ",
+        "title":"Full-stack developer",
+        "years":"September 2016 - June 2017",
+        "description":"Development of a hospital management system using Java, Tapestry, MySql and Angular."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"80%"
+      },
+      {
+        "name":"Spring Boot",
+        "level":"80%"
+      },
+      {
+        "name":"Liquibase",
+        "level":"80%"
+      },
+      {
+        "name":"MySQL",
+        "level":"80%"
+      },
+      {
+        "name":"Kafka",
+        "level":"70%"
+      },
+      {
+        "name":"Docker",
+        "level":"70%"
+      },
+      {
+        "name":"Jenkins",
+        "level":"70%"
+      },
+      {
+        "name":"Rancher",
+        "level":"60%"
+      },
+      {
+        "name":"NoSQL",
+        "level":"60%"
+      },
+      {
+        "name":"Python",
+        "level":"60%"
+      }      
+    ]
+  }  
+}
